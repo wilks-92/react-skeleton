@@ -50,4 +50,4 @@ const mapStateToProps = state => {
   
   };
   
-  export default connect(mapStateToProps)(Boards);
+  export default connect(mapStateToProps)(Dashboard);
